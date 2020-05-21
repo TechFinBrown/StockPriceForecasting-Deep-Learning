@@ -1,1 +1,1 @@
-# StockPriceForecasting-Deep-Learning
+# Stock Price Forecasting Using Deep-Learning
