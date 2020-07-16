@@ -7,7 +7,10 @@
 ---
 - Model 
  - WaveNet non gated
+ 
    ![](https://github.com/TechFinBrown/StockPriceForecasting-Deep-Learning/blob/master/Stock_price_WaveNet_non_gated.png)
    
+   
  - WaveNet gated
+ 
    ![](https://github.com/TechFinBrown/StockPriceForecasting-Deep-Learning/blob/master/Stock_price_WaveNet_gated.png)
